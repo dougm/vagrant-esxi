@@ -1,0 +1,1 @@
+require "vagrant-esxi/plugin"
